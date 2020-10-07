@@ -86,6 +86,16 @@
       {
         "command": "prisma.restartLanguageServer",
         "title": "Prisma: Restart Language Server"
+      },
+      {
+        "command": "prisma.plugin.studio.open",
+        "title": "Open Studio",
+        "category": "Prisma"
+      },
+      {
+        "command": "prisma.plugin.studio.kill",
+        "title": "Stop Studio",
+        "category": "Prisma"
       }
     ]
   },
